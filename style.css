@@ -1,0 +1,41 @@
+* { 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box; 
+}
+
+body { 
+	margin: 10%; 
+	padding: 0; 
+	border: 0;
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #454545;
+} 
+
+#name { 
+  font-size: 3em;
+  margin: 10px;
+}
+
+#job { 
+  font-size: 2em;
+  font-weight: lighter;
+  margin: 10px;
+}
+
+#email { 
+  font-size: 1em;
+  font-weight: lighter;
+  margin: 10px;
+}
+
+#links a { 
+  font-size: 1.5em;
+  padding: 10px;
+  text-decoration: none;
+  color: #595959;
+} 
+
+#links a:hover {
+  color: #969696;
+}
