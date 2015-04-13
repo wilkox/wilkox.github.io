@@ -36,16 +36,21 @@ h1 {
   font-style: italic;
 }
 
+.email {
+  font-variant: small-caps;
+  text-decoration: none;
+}
+
 ul {
   padding-left: 0px;
 }
 
 a {
   color: #454545;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
   color: #969696;
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
