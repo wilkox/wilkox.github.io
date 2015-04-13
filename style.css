@@ -28,17 +28,13 @@ body {
 
 h1 { 
   font-size: 48pt;
+  line-height: 1.1em;
   margin-bottom: 20px;
   font-weight: normal;
 }
 
 .job { 
   font-style: italic;
-}
-
-.email {
-  font-variant: small-caps;
-  text-decoration: none;
 }
 
 ul {
