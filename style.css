@@ -28,14 +28,9 @@ body {
 
 h1 { 
   font-size: 48pt;
-  line-height: 1.1em;
+  line-height: 0.6em;
   margin-bottom: 20px;
   font-weight: normal;
-}
-
-.job { 
-  margin-top: -12pt;
-  font-style: italic;
 }
 
 ul {
@@ -43,11 +38,10 @@ ul {
 }
 
 a {
-  color: #454545;
-  text-decoration: underline;
+  color: #803232;
+  text-decoration: none;
 }
 
 a:hover {
-  color: #969696;
-  /* text-decoration: underline; */
+  color: #9A6C6C;
 }
