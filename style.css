@@ -28,9 +28,13 @@ body {
 
 h1 { 
   font-size: 48pt;
-  line-height: 0.6em;
+  line-height: 1.1em;
   margin-bottom: 20px;
   font-weight: normal;
+}
+
+.job {
+  margin-top: -12pt;
 }
 
 ul {
