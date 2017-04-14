@@ -25,6 +25,7 @@ body {
   color: #454545;
   margin-top: 5vh;
   margin-left: 10vw;
+  margin-right: 10vw;
 }
 
 h1 {
@@ -35,7 +36,7 @@ h1 {
 
 img {
   border:1px solid #021a40;
-  height: 15vw;
+  height: 13vw;
 }
 
 .job {
