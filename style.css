@@ -18,24 +18,38 @@
   font-style: italic;
 }
 
-body { 
+body {
   font-family: 'Equity Text A', serif;
-  font-size: 18pt;
+  font-size: 3vmin;
   line-height: 1.2em;
   color: #454545;
-  margin: 10%;
-} 
+  margin-top: 5vh;
+  margin-left: 10vw;
+}
 
-h1 { 
-  font-size: 48pt;
+h1 {
+  font-size: 9vmin;
   line-height: 1.1em;
-  margin-bottom: 20px;
   font-weight: normal;
+}
+
+img {
+  border:1px solid #021a40;
+  height: 15vw;
 }
 
 .job {
   margin-top: -12pt;
+  font-style: italic;
 }
+
+.links {
+  font-family: 'Equity Text A', serif;
+  font-size: 1.5vw;
+  line-height: 1.2em;
+  color: #454545;
+  margin: 10%;
+} 
 
 ul {
   padding-left: 0px;
