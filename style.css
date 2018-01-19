@@ -33,14 +33,11 @@ body {
 h1 {
   font-size: 140%;
   line-height: 1.5em;
+  font-weight: bold;
 }
 
 .header {
   color: #454545;
-}
-
-.header:hover {
-  color: #803232;
 }
 
 a {
