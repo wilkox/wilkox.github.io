@@ -12,10 +12,9 @@
 }
 
 @font-face {
-  font-family: 'Equity Text A';
+  font-family: 'Equity Text A Bold';
   src: url('equity_text_a_bold-webfont.woff') format('woff');
   font-weight: normal;
-  font-style: bold;
 }
 
 body {
@@ -23,17 +22,18 @@ body {
   font-size: 150%;
   line-height: 1.2em;
   color: #454545;
-  margin-top: 10vh;
+  margin-top: 40px;;
   margin-left: 10vw;
   margin-right: 10vw;
-  margin-bottom: 10vw;
+  margin-bottom: 40px;
   max-width: 720px;
 }
 
 h1 {
+  font-family: 'Equity Text A Bold', serif;
   font-size: 140%;
   line-height: 1.5em;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .header {
