@@ -1,0 +1,51 @@
+* { 
+  -moz-box-sizing: border-box; 
+  -webkit-box-sizing: border-box; 
+  box-sizing: border-box; 
+}
+
+@font-face {
+  font-family: 'Equity Text A';
+  src: url('equity_text_a_regular-webfont.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Equity Text A Bold';
+  src: url('equity_text_a_bold-webfont.woff') format('woff');
+  font-weight: normal;
+}
+
+body {
+  font-family: 'Equity Text A', serif;
+  font-size: 150%;
+  line-height: 1.2em;
+  color: #454545;
+  margin-top: 10vh;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  margin-bottom: 10vh;
+  max-width: 720px;
+}
+
+h1 {
+  font-family: 'Equity Text A Bold', serif;
+  font-size: 140%;
+  line-height: 1.5em;
+  font-weight: normal;
+  margin-bottom: 1.2em;
+}
+
+.header {
+  color: #454545;
+}
+
+a {
+  color: #803232;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #F3E7E7;
+}
