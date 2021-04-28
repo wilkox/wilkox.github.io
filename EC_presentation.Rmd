@@ -57,7 +57,7 @@ output:
 - Nil other systemic symptoms
 - Nil sick contacts
 - Nil recent medication changes
-- Previous MRI, CT head, full body PET by GP unremarkable
+- Previous MRI brain, CT head + CT lumbar spine, bilateral hip XRs, full body PET by GP unremarkable
 
 ---
 
@@ -65,7 +65,7 @@ output:
 
 - GORD
 - Asthma
-- Raised peroxidase antibodies but no formal diagnosis of Hashimoto's thyroiditis
+- Raised peroxidase antibodies noted in 2016 but no formal diagnosis of Hashimoto's thyroiditis
 - Right shoulder bursitis
 - Chronic neck and back pain with degenerative disc disease
 - Anxiety
@@ -80,14 +80,15 @@ output:
 - amitriptyline 25 mg nocte
 - meloxicam 7.5 mg nocte PRN
 - paracetamol 500 mg + codeine 30 mg nocte PRN
-- nitrazepam 5 mg nocte
 - paracetamol 1 g QID
+- nitrazepam 5 mg nocte
 - budesonide 200 μg + formoterol 6 μg/dose MDI 2 puffs BD PRN
 - salbutamol 100 μg/dose MDI 4–6 puffs q4h PRN
 - esomeprazole 20 mg daily
 - cholecalciferol 1000 units mane
 - estradiol pessary 10 μg Monday/Wednesday/Friday
 - estradiol 1 mg + estradiol-dydrogesterone 10 mg mane
+
 ---
 
 # Substances
@@ -176,8 +177,18 @@ output:
 - EUC: Na 140, K+ 4.5, urea 2.3, Cr 39, eGFR > 90
 - Albumin 41, bilirubin 4, LFTs unremarkable
 - CK 38
+- CRP 1.0
 - CBE: Hb 137, WCC 9.29, platelets 421
 - TFTs, Vitamin D, B12, iron studies unremarkable
+
+--
+
+## Tumour markers
+
+- Alpha fetoprotein 2
+- CA 125 9
+- CA 19-9 7
+- CEA 3
 
 ---
 
@@ -185,16 +196,19 @@ output:
 
 - LMN (CIDP/Guillain–Barré/Miller Fisher syndrome)
 - Limb-girdle muscular dystrophy
+- Myositis
+- Drug-induced or toxin-induced myopathy
 - Malignancy with paraneoplastic syndrome
 - Metabolic myopathy
 - Polymyalgia rheumatica
 - Myasthenia gravis, Lambert-Eaton myasthenic syndrome
+- MND/AML
 
 ---
 
 # Electromyography and nerve conduction studies
 
-> The sensory responses in the upper and lower limbs are all robust and well within normal limits. Lower limb motor responses are small and distal motor latencies are moderately prolonged, though the feet are cool. There is mild slowing of motor conduction velocity in the right common peroneal nerve. Both tibial F wave responses are within normal latency for her height, though the right was less persistent than expected (30%) and some A waves were seen. **The motor responses in the upper limbs were very small and this was out of keeping with the power on physical examination. This was repeated multiple times with no technical cause identified. The motor response amplitude dramatically increased (> 300%) after 10 seconds of exercise.** The phenomenon was observed in both the median-aPB and ulnar-ADM studies.
+> The sensory responses in the upper and lower limbs are all robust and well within normal limits. Lower limb motor responses are small and distal motor latencies are moderately prolonged, though the feet are cool. There is mild slowing of motor conduction velocity in the right common peroneal nerve. Both tibial F wave responses are within normal latency for her height, though the right was less persistent than expected (30%) and some A waves were seen. **The motor responses in the upper limbs were very small and this was out of keeping with the power on physical examination. This was repeated multiple times with no technical cause identified. The motor response amplitude dramatically increased (> 300%) after 10 seconds of exercise. The phenomenon was observed in both the median-aPB and ulnar-ADM studies.**
 
 ---
 class: inverse
@@ -283,16 +297,16 @@ class: inverse
 - Indication for treatment is based on functional impairment; watch and wait may be appropriate for patients with mild symptoms
 - Diagnosis and treatment of malignancy is crucial
 
+## Medications
+
 - Amifampridine
   - Presynaptic potassium channel blockade
   - Prolongs presynaptic depolarisation → increased calcium entry
   - Mild adverse effects (headache, nausea, abdominal pain, diarrhoea), can cause seizures at high doses
-
 - Pyridostigmine
   - Of limited benefit
 - Guanadine
   - Narrow therapeutic window - nephrotoxicity, bone marrow suppression
-
 - In absence of malignancy, or in treated malignancy: IVIG, prednisolone + azathioprine, rituximab, plasmapheresis
 
 ---
