@@ -32,9 +32,9 @@ body {
 h1 {
   font-family: 'Equity Text A Bold', serif;
   font-size: 140%;
-  line-height: 1.5em;
+  line-height: 1.0em;
   font-weight: normal;
-  margin-bottom: 1.2em;
+  margin-bottom: 0em;
 }
 
 .header {
